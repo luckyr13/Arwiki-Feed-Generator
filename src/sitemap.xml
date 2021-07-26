@@ -46,4 +46,49 @@
                hreflang="zh"
                href="https://www.arwiki.wiki/#/zh/main"/>
   </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/Arweave</loc>
+    <lastmod>2021-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="ar"
+               href="https://www.arwiki.wiki/#/ar/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://www.arwiki.wiki/#/de/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="https://www.arwiki.wiki/#/es/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="ga"
+               href="https://www.arwiki.wiki/#/ga/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="he"
+               href="https://www.arwiki.wiki/#/he/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="hi"
+               href="https://www.arwiki.wiki/#/hi/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="hu"
+               href="https://www.arwiki.wiki/#/hu/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="id"
+               href="https://www.arwiki.wiki/#/id/Arweave"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="zh"
+               href="https://www.arwiki.wiki/#/zh/Arweave"/>
+  </url>
 </urlset>
