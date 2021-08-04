@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.arwiki.wiki/#/en/main</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                rel="alternate"
@@ -48,16 +48,8 @@
   </url>
   <url>
     <loc>https://www.arwiki.wiki/#/en/Arweave</loc>
-    <lastmod>2021-07-25</lastmod>
+    <lastmod>2021-08-04</lastmod>
     <changefreq>monthly</changefreq>
-    <xhtml:link
-               rel="alternate"
-               hreflang="ar"
-               href="https://www.arwiki.wiki/#/ar/Arweave"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="de"
-               href="https://www.arwiki.wiki/#/de/Arweave"/>
     <xhtml:link
                rel="alternate"
                hreflang="en"
@@ -66,29 +58,100 @@
                rel="alternate"
                hreflang="es"
                href="https://www.arwiki.wiki/#/es/Arweave"/>
+    
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/smartweave</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
     <xhtml:link
                rel="alternate"
-               hreflang="ga"
-               href="https://www.arwiki.wiki/#/ga/Arweave"/>
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/smartweave"/>
     <xhtml:link
                rel="alternate"
-               hreflang="he"
-               href="https://www.arwiki.wiki/#/he/Arweave"/>
+               hreflang="es"
+               href="https://www.arwiki.wiki/#/es/smartweave"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/the-permaweb</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
     <xhtml:link
                rel="alternate"
-               hreflang="hi"
-               href="https://www.arwiki.wiki/#/hi/Arweave"/>
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/the-permaweb"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/karma</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
     <xhtml:link
                rel="alternate"
-               hreflang="hu"
-               href="https://www.arwiki.wiki/#/hu/Arweave"/>
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/karma"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/storage-endowment</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
     <xhtml:link
                rel="alternate"
-               hreflang="id"
-               href="https://www.arwiki.wiki/#/id/Arweave"/>
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/storage-endowment"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/content-policies</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
     <xhtml:link
                rel="alternate"
-               hreflang="zh"
-               href="https://www.arwiki.wiki/#/zh/Arweave"/>
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/content-policies"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/gateways</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/gateways"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/profit-sharing-tokens</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/profit-sharing-tokens"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/profit-sharing-communities</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/profit-sharing-communities"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/arweave-mining</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/arweave-mining"/>
+  </url>
+  <url>
+    <loc>https://www.arwiki.wiki/#/en/ArWiki</loc>
+    <lastmod>2021-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://www.arwiki.wiki/#/en/ArWiki"/>
   </url>
 </urlset>
